@@ -1,4 +1,0 @@
-Sitemap: https://thedgm.github.io/sitemapindex.xml
-
-User-Agent: *
-Host: thedgm.github.io
